@@ -1,0 +1,8 @@
+1. to center a div 
+div {
+  width: 16rem; /* w-64 = 64 * 0.25rem = 16rem */
+  margin-left: auto;  /* mx-auto = horizontal margin auto */
+  margin-right: auto;
+}
+
+2. 
